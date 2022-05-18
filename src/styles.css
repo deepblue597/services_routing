@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+mav a.active { 
+    color: #039be5; 
+}
+
+.items li.selected { 
+    background-color:#039be5; 
+    color:#f71d09; 
+    
+}
